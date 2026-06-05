@@ -1,155 +1,155 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="福建广电",CCTV-1高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=304&n=cctv1hd_2000
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="福建广电",CCTV-2高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=38&n=cctv2hd_2000
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="福建广电",CCTV-3高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=306&n=cctv3hd_2000
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="福建广电",CCTV-4高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=34&n=cctv4hd_2000
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="福建广电",CCTV-5高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=308&n=cctv5hd_2000
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="福建广电",CCTV-5+高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=314&n=cctv5plushd_2000
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="福建广电",CCTV-6高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=310&n=cctv6hd_2000
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="福建广电",CCTV-7高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=536&n=cctv7hd_2000
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="福建广电",CCTV-8高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=312&n=cctv8hd_2000
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="福建广电",CCTV-9高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=82&n=cctv9hd_2000
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="福建广电",CCTV-10高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=44&n=cctv10_1200
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="福建广电",CCTV-11高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=538&n=cctv11hd_2000
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="福建广电",CCTV-12高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=540&n=cctv12hd_2000
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="福建广电",CCTV-13高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=46&n=cctv13_1200
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="福建广电",CCTV-14高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=546&n=cctv14_2000
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="福建广电",CCTV-15高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=548&n=cctv15_2000
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="福建广电",CCTV-16高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=632&n=cctv16hd_2000
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="福建广电",CCTV-17高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=550&n=cctv17_2000
-#EXTINF:-1 tvg-name="CCTV-卫生健康" tvg-logo="https://live.fanmingming.com/tv/CCTV-卫生健康.png" group-title="福建广电",CCTV-卫生健康
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=550&n=klcdhd_2000
-#EXTINF:-1 tvg-name="湖南卫视高清" tvg-logo="https://live.fanmingming.com/tv/湖南卫视高清.png" group-title="福建广电",湖南卫视高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=290&n=hnwshd_2000
-#EXTINF:-1 tvg-name="广东卫视高清" tvg-logo="https://live.fanmingming.com/tv/广东卫视高清.png" group-title="福建广电",广东卫视高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=542&n=gdwshd_2000
-#EXTINF:-1 tvg-name="山东卫视高清" tvg-logo="https://live.fanmingming.com/tv/山东卫视高清.png" group-title="福建广电",山东卫视高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=280&n=sdwshd_2000
-#EXTINF:-1 tvg-name="江苏卫视高清" tvg-logo="https://live.fanmingming.com/tv/江苏卫视高清.png" group-title="福建广电",江苏卫视高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=294&n=jswshd_2000
-#EXTINF:-1 tvg-name="北京卫视高清" tvg-logo="https://live.fanmingming.com/tv/北京卫视高清.png" group-title="福建广电",北京卫视高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=288&n=bjwshd_2000
-#EXTINF:-1 tvg-name="东方卫视高清" tvg-logo="https://live.fanmingming.com/tv/东方卫视高清.png" group-title="福建广电",东方卫视高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=286&n=dfwshd_2000
-#EXTINF:-1 tvg-name="浙江卫视高清" tvg-logo="https://live.fanmingming.com/tv/浙江卫视高清.png" group-title="福建广电",浙江卫视高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=292&n=zjwshd_2000
-#EXTINF:-1 tvg-name="深圳卫视高清" tvg-logo="https://live.fanmingming.com/tv/深圳卫视高清.png" group-title="福建广电",深圳卫视高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=284&n=szwshd_2000
-#EXTINF:-1 tvg-name="东南卫视高清" tvg-logo="https://live.fanmingming.com/tv/东南卫视高清.png" group-title="福建广电",东南卫视高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=58&n=dnwshd_2000
-#EXTINF:-1 tvg-name="厦门卫视高清" tvg-logo="https://live.fanmingming.com/tv/厦门卫视高清.png" group-title="福建广电",厦门卫视高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=24&n=xm1_1200
-#EXTINF:-1 tvg-name="天津卫视高清" tvg-logo="https://live.fanmingming.com/tv/天津卫视高清.png" group-title="福建广电",天津卫视高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=558&n=tjwshd_2000
-#EXTINF:-1 tvg-name="安徽卫视高清" tvg-logo="https://live.fanmingming.com/tv/安徽卫视高清.png" group-title="福建广电",安徽卫视高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=562&n=ahwshd_2000
-#EXTINF:-1 tvg-name="湖北卫视高清" tvg-logo="https://live.fanmingming.com/tv/湖北卫视高清.png" group-title="福建广电",湖北卫视高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=552&n=hbwshd_2000
-#EXTINF:-1 tvg-name="辽宁卫视高清" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视高清.png" group-title="福建广电",辽宁卫视高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=560&n=lnwshd_2000
-#EXTINF:-1 tvg-name="黑龙江卫视高清" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视高清.png" group-title="福建广电",黑龙江卫视高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=544&n=hljwshd_2000
-#EXTINF:-1 tvg-name="福建导视高清" tvg-logo="https://live.fanmingming.com/tv/福建导视高清.png" group-title="福建广电",福建导视高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=60&n=dspd_1200
-#EXTINF:-1 tvg-name="福建1套高清" tvg-logo="https://live.fanmingming.com/tv/福建1套高清.png" group-title="福建广电",福建1套高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=4&n=fj1hd_2000
-#EXTINF:-1 tvg-name="福建4套高清" tvg-logo="https://live.fanmingming.com/tv/福建4套高清.png" group-title="福建广电",福建4套高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=568&n=fjxwhd_2000
-#EXTINF:-1 tvg-name="福建电视剧" tvg-logo="https://live.fanmingming.com/tv/福建电视剧.png" group-title="福建广电",福建电视剧
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=588&n=fjdsjhd_2000
-#EXTINF:-1 tvg-name="福建教育" tvg-logo="https://live.fanmingming.com/tv/福建教育.png" group-title="福建广电",福建教育
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=713&n=fjjyhd_2000
-#EXTINF:-1 tvg-name="福州1套高清" tvg-logo="https://live.fanmingming.com/tv/福州1套高清.png" group-title="福建广电",福州1套高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=56&n=fz1hd_2000
-#EXTINF:-1 tvg-name="福州2套" tvg-logo="https://live.fanmingming.com/tv/福州2套.png" group-title="福建广电",福州2套
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=582&n=fz2hd_2000
-#EXTINF:-1 tvg-name="福州3套" tvg-logo="https://live.fanmingming.com/tv/福州3套.png" group-title="福建广电"v,福州3套
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=512&n=fz3hd_2000
-#EXTINF:-1 tvg-name="福州4套" tvg-logo="https://live.fanmingming.com/tv/福州4套.png" group-title="福建广电",福州4套
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=584&n=fz4hd_2000
-#EXTINF:-1 tvg-name="马尾电视台" tvg-logo="https://live.fanmingming.com/tv/马尾电视台.png" group-title="福建广电",马尾电视台
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=710&n=fzmw_1200
-#EXTINF:-1 tvg-name="闽侯电视台" tvg-logo="https://live.fanmingming.com/tv/闽侯电视台.png" group-title="福建广电",闽侯电视台
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=709&n=fzmh_1200
-#EXTINF:-1 tvg-name="闽清电视台" tvg-logo="https://live.fanmingming.com/tv/闽清电视台.png" group-title="福建广电",闽清电视台
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=714&n=fzmq_1200
-#EXTINF:-1 tvg-name="厦门1套高清" tvg-logo="https://live.fanmingming.com/tv/厦门1套高清.png" group-title="福建广电",厦门1套高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=570&n=xm1hd_2000
-#EXTINF:-1 tvg-name="厦门2套高清" tvg-logo="https://live.fanmingming.com/tv/厦门2套高清.png" group-title="福建广电",厦门2套高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=570&n=xm2hd_2000
-#EXTINF:-1 tvg-name="厦门3套高清" tvg-logo="https://live.fanmingming.com/tv/厦门3套高清.png" group-title="福建广电",厦门3套高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=570&n=xm3hd_2000
-#EXTINF:-1 tvg-name="泉州1套高清" tvg-logo="https://live.fanmingming.com/tv/泉州1套高清.png" group-title="福建广电",泉州1套高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=20&n=qz1_1200
-#EXTINF:-1 tvg-name="泉州3套" tvg-logo="https://live.fanmingming.com/tv/泉州3套.png" group-title="福建广电",泉州3套
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=520&n=qz3hd_2000
-#EXTINF:-1 tvg-name="泉州4套" tvg-logo="https://live.fanmingming.com/tv/泉州4套.png" group-title="福建广电",泉州4套
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=514&n=qz4hd_2000
-#EXTINF:-1 tvg-name="泉州安溪" tvg-logo="https://live.fanmingming.com/tv/泉州安溪.png" group-title="福建广电",泉州安溪
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=514&n=qzax_2000
-#EXTINF:-1 tvg-name="泉州永春" tvg-logo="https://live.fanmingming.com/tv/泉州永春.png" group-title="福建广电",泉州永春
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=514&n=qzyc_2000
-#EXTINF:-1 tvg-name="莆田1套" tvg-logo="https://live.fanmingming.com/tv/莆田1套.png" group-title="福建广电",莆田1套
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=18&n=pt1_1200
-#EXTINF:-1 tvg-name="莆田2套" tvg-logo="https://live.fanmingming.com/tv/莆田2套.png" group-title="福建广电",莆田2套
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=80&n=pt2hd_2000
-#EXTINF:-1 tvg-name="漳州1套" tvg-logo="https://live.fanmingming.com/tv/漳州1套.png" group-title="福建广电",漳州1套
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=26&n=zz1_1200
-#EXTINF:-1 tvg-name="漳州2套" tvg-logo="https://live.fanmingming.com/tv/漳州2套.png" group-title="福建广电",漳州2套
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=526&n=zz2hd_2000
-#EXTINF:-1 tvg-name="龙岩1套" tvg-logo="https://live.fanmingming.com/tv/龙岩1套.png" group-title="福建广电",龙岩1套
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=14&n=ly1_1200
-#EXTINF:-1 tvg-name="龙岩连城" tvg-logo="https://live.fanmingming.com/tv/龙岩连城.png" group-title="福建广电",龙岩连城
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=14&n=lylchd_2000
-#EXTINF:-1 tvg-name="龙岩上杭" tvg-logo="https://live.fanmingming.com/tv/龙岩上杭.png" group-title="福建广电",龙岩上杭
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=14&n=lyshhd_2000
-#EXTINF:-1 tvg-name="龙岩长汀" tvg-logo="https://live.fanmingming.com/tv/龙岩长汀.png" group-title="福建广电",龙岩长汀
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=14&n=lycthd_2000
-#EXTINF:-1 tvg-name="三明1套" tvg-logo="https://live.fanmingming.com/tv/三明1套.png" group-title="福建广电",三明1套
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=22&n=sm1_1200
-#EXTINF:-1 tvg-name="南平1套" tvg-logo="https://live.fanmingming.com/tv/南平1套.png" group-title="福建广电",南平1套
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=16&n=np1_1200
-#EXTINF:-1 tvg-name="宁德1套" tvg-logo="https://live.fanmingming.com/tv/宁德1套.png" group-title="福建广电",宁德1套
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=12&n=nd1_1200
-#EXTINF:-1 tvg-name="宁德2套" tvg-logo="https://live.fanmingming.com/tv/宁德2套.png" group-title="福建广电",宁德2套
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=516&n=nd2hd_2000
-#EXTINF:-1 tvg-name="平潭1套" tvg-logo="https://live.fanmingming.com/tv/平潭1套.png" group-title="福建广电",平潭1套
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=10&n=pt1_1200
-#EXTINF:-1 tvg-name="金鹰卡通高清" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通高清.png" group-title="福建广电",金鹰卡通高清
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=580&n=jykthd_2000
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="福建广电",CHC影迷电影
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=324&n=chchd_2000
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="福建广电",CHC家庭影院
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=590&n=chcjthd_2000
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="福建广电",CHC动作电影
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=592&n=chcdzhd_2000
-#EXTINF:-1 tvg-name="CGTN-NEWS" tvg-logo="https://live.fanmingming.com/tv/CGTN-NEWS.png" group-title="福建广电",CGTN-NEWS
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=638&n=cgtnnewshd_2000
-#EXTINF:-1 tvg-name="CGTN-环球纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN-环球纪录.png" group-title="福建广电",CGTN-环球纪录
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=644&n=cgtnhqjlhd_2000
-#EXTINF:-1 tvg-name="CGTN-英语" tvg-logo="https://live.fanmingming.com/tv/CGTN-英语.png" group-title="福建广电",CGTN-英语
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=716&n=cgtnnewshd_2000
-#EXTINF:-1 tvg-name="CGTN-纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN-纪录.png" group-title="福建广电",CGTN-纪录
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=715&n=cgtnhqjlhd_2000
-#EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯台.png" group-title="福建广电",凤凰资讯台
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=715&n=fhzxhd_2000
-#EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰中文台.png" group-title="福建广电",凤凰中文台
-http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=715&n=fhzwhd_2000
+#EXTM3U
+#EXTINF:-1 group-title="福建广电",CCTV-1高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=304&n=cctv1hd_2000
+#EXTINF:-1 group-title="福建广电",CCTV-2高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=38&n=cctv2hd_2000
+#EXTINF:-1 group-title="福建广电",CCTV-3高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=306&n=cctv3hd_2000
+#EXTINF:-1 group-title="福建广电",CCTV-4高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=34&n=cctv4hd_2000
+#EXTINF:-1 group-title="福建广电",CCTV-5高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=308&n=cctv5hd_2000
+#EXTINF:-1 group-title="福建广电",CCTV-5+高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=314&n=cctv5plushd_2000
+#EXTINF:-1 group-title="福建广电",CCTV-6高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=310&n=cctv6hd_2000
+#EXTINF:-1 group-title="福建广电",CCTV-7高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=536&n=cctv7hd_2000
+#EXTINF:-1 group-title="福建广电",CCTV-8高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=312&n=cctv8hd_2000
+#EXTINF:-1 group-title="福建广电",CCTV-9高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=82&n=cctv9hd_2000
+#EXTINF:-1 group-title="福建广电",CCTV-10高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=44&n=cctv10_1200
+#EXTINF:-1 group-title="福建广电",CCTV-11高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=538&n=cctv11hd_2000
+#EXTINF:-1 group-title="福建广电",CCTV-12高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=540&n=cctv12hd_2000
+#EXTINF:-1 group-title="福建广电",CCTV-13高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=46&n=cctv13_1200
+#EXTINF:-1 group-title="福建广电",CCTV-14高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=546&n=cctv14_2000
+#EXTINF:-1 group-title="福建广电",CCTV-15高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=548&n=cctv15_2000
+#EXTINF:-1 group-title="福建广电",CCTV-16高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=632&n=cctv16hd_2000
+#EXTINF:-1 group-title="福建广电",CCTV-17高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=550&n=cctv17_2000
+#EXTINF:-1 group-title="福建广电",CCTV-卫生健康
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=550&n=klcdhd_2000
+#EXTINF:-1 group-title="福建广电",湖南卫视高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=290&n=hnwshd_2000
+#EXTINF:-1 group-title="福建广电",广东卫视高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=542&n=gdwshd_2000
+#EXTINF:-1 group-title="福建广电",山东卫视高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=280&n=sdwshd_2000
+#EXTINF:-1 group-title="福建广电",江苏卫视高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=294&n=jswshd_2000
+#EXTINF:-1 group-title="福建广电",北京卫视高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=288&n=bjwshd_2000
+#EXTINF:-1 group-title="福建广电",东方卫视高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=286&n=dfwshd_2000
+#EXTINF:-1 group-title="福建广电",浙江卫视高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=292&n=zjwshd_2000
+#EXTINF:-1 group-title="福建广电",深圳卫视高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=284&n=szwshd_2000
+#EXTINF:-1 group-title="福建广电",东南卫视高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=58&n=dnwshd_2000
+#EXTINF:-1 group-title="福建广电",厦门卫视高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=24&n=xm1_1200
+#EXTINF:-1 group-title="福建广电",天津卫视高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=558&n=tjwshd_2000
+#EXTINF:-1 group-title="福建广电",安徽卫视高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=562&n=ahwshd_2000
+#EXTINF:-1 group-title="福建广电",湖北卫视高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=552&n=hbwshd_2000
+#EXTINF:-1 group-title="福建广电",辽宁卫视高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=560&n=lnwshd_2000
+#EXTINF:-1 group-title="福建广电",黑龙江卫视高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=544&n=hljwshd_2000
+#EXTINF:-1 group-title="福建广电",福建导视高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=60&n=dspd_1200
+#EXTINF:-1 group-title="福建广电",福建1套高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=4&n=fj1hd_2000
+#EXTINF:-1 group-title="福建广电",福建4套高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=568&n=fjxwhd_2000
+#EXTINF:-1 group-title="福建广电",福建电视剧
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=588&n=fjdsjhd_2000
+#EXTINF:-1 group-title="福建广电",福建教育
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=713&n=fjjyhd_2000
+#EXTINF:-1 group-title="福建广电",福州1套高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=56&n=fz1hd_2000
+#EXTINF:-1 group-title="福建广电",福州2套
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=582&n=fz2hd_2000
+#EXTINF:-1 group-title="福建广电",福州3套
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=512&n=fz3hd_2000
+#EXTINF:-1 group-title="福建广电",福州4套
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=584&n=fz4hd_2000
+#EXTINF:-1 group-title="福建广电",马尾电视台
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=710&n=fzmw_1200
+#EXTINF:-1 group-title="福建广电",闽侯电视台
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=709&n=fzmh_1200
+#EXTINF:-1 group-title="福建广电",闽清电视台
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=714&n=fzmq_1200
+#EXTINF:-1 group-title="福建广电",厦门1套高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=570&n=xm1hd_2000
+#EXTINF:-1 group-title="福建广电",厦门2套高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=570&n=xm2hd_2000
+#EXTINF:-1 group-title="福建广电",厦门3套高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=570&n=xm3hd_2000
+#EXTINF:-1 group-title="福建广电",泉州1套高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=20&n=qz1_1200
+#EXTINF:-1 group-title="福建广电",泉州3套
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=520&n=qz3hd_2000
+#EXTINF:-1 group-title="福建广电",泉州4套
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=514&n=qz4hd_2000
+#EXTINF:-1 group-title="福建广电",泉州安溪
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=514&n=qzax_2000
+#EXTINF:-1 group-title="福建广电",泉州永春
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=514&n=qzyc_2000
+#EXTINF:-1 group-title="福建广电",莆田1套
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=18&n=pt1_1200
+#EXTINF:-1 group-title="福建广电",莆田2套
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=80&n=pt2hd_2000
+#EXTINF:-1 group-title="福建广电",漳州1套
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=26&n=zz1_1200
+#EXTINF:-1 group-title="福建广电",漳州2套
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=526&n=zz2hd_2000
+#EXTINF:-1 group-title="福建广电",龙岩1套
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=14&n=ly1_1200
+#EXTINF:-1 group-title="福建广电",龙岩连城
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=14&n=lylchd_2000
+#EXTINF:-1 group-title="福建广电",龙岩上杭
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=14&n=lyshhd_2000
+#EXTINF:-1 group-title="福建广电",龙岩长汀
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=14&n=lycthd_2000
+#EXTINF:-1 group-title="福建广电",三明1套
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=22&n=sm1_1200
+#EXTINF:-1 group-title="福建广电",南平1套
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=16&n=np1_1200
+#EXTINF:-1 group-title="福建广电",宁德1套
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=12&n=nd1_1200
+#EXTINF:-1 group-title="福建广电",宁德2套
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=516&n=nd2hd_2000
+#EXTINF:-1 group-title="福建广电",平潭1套
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=10&n=pt1_1200
+#EXTINF:-1 group-title="福建广电",金鹰卡通高清
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=580&n=jykthd_2000
+#EXTINF:-1 group-title="福建广电",CHC影迷电影
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=324&n=chchd_2000
+#EXTINF:-1 group-title="福建广电",CHC家庭影院
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=590&n=chcjthd_2000
+#EXTINF:-1 group-title="福建广电",CHC动作电影
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=592&n=chcdzhd_2000
+#EXTINF:-1 group-title="福建广电",CGTN-NEWS
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=638&n=cgtnnewshd_2000
+#EXTINF:-1 group-title="福建广电",CGTN-环球纪录
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=644&n=cgtnhqjlhd_2000
+#EXTINF:-1 group-title="福建广电",CGTN-英语
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=716&n=cgtnnewshd_2000
+#EXTINF:-1 group-title="福建广电",CGTN-纪录
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=715&n=cgtnhqjlhd_2000
+#EXTINF:-1 group-title="福建广电",凤凰资讯台
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=715&n=fhzxhd_2000
+#EXTINF:-1 group-title="福建广电",凤凰中文台
+http://nn.7x9d.cn/xz/xz_0d8a1509f6/fjgd.php?cid=715&n=fhzwhd_2000
